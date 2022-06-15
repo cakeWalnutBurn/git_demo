@@ -1,4 +1,4 @@
-hello git
+my_cake分支合并冲突测试
 不错不错
 
 这是我的分支,myCake
